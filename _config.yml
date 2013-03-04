@@ -1,4 +1,0 @@
-pygments: false
-assets:
-  compress:
-    css:  sass
